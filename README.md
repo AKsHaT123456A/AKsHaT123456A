@@ -24,6 +24,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AKsHaT123456A&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akshat&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
