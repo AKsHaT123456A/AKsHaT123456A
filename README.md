@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshat Mishra and I'm a Fullstack Developer, <br>from India</h2>
+<h2 align="left">Hi 👋! My name is Akshat Mishra and I'm a Fullstack Developer, <br>from India...</h2>
 
 ###
 
