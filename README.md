@@ -1,100 +1,145 @@
-<h2 align="left">Hi 👋! My name is Akshat Mishra and I'm a Fullstack Developer, <br>from India...</h2>
+<h1 align="center">Hi 👋 I'm Akshat Mishra</h1>
+<h3 align="center">
+Full Stack + AI Engineer | React • TypeScript • Node.js | Real-Time Systems
+</h3>
 
-###
-###
+<p align="center">
+Building production-grade real-time systems and AI-powered applications with scalable backend architecture and performance-focused engineering.
+</p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2c/25/b2/2c25b2e0a2889990eb1473eb76d7b2fe.gif"  />
+---
 
-###
+## 🚀 About Me
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/apollographql/311C87" height="30" alt="apollographql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jenkins/D24939" height="30" alt="jenkins logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jest/C21325" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mui/007FFF" height="30" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nginx/009639" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?logo=socketdotio&logoColor=white&style=for-the-badge" height="30" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-</div>
+- 🔭 Building real-time trading dashboards used by live traders  
+- 🤖 Integrating AI-powered workflows and intelligent automation  
+- ⚡ Designing low-latency REST & WebSocket APIs  
+- 🧠 Optimizing backend systems for high-volume workloads  
+- 🏗️ Shipping features end-to-end from architecture to deployment  
 
-###
+I enjoy combining scalable backend engineering with applied AI to build intelligent, production-ready systems.
 
-<div align="left">
-  <a href="https://www.instagram.com/akshat_mishra_?igsh=MTVjdGg4cW91amcwcw==" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+---
+
+## 🧠 AI & Intelligent Systems
+
+![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-black?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-black?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG_Systems-black?style=for-the-badge)
+![AI APIs](https://img.shields.io/badge/AI_API_Integration-black?style=for-the-badge)
+
+- Building AI-powered document and knowledge workflows  
+- LLM API integrations into full-stack applications  
+- Retrieval-Augmented Generation pipelines  
+- Structured prompting & output parsing  
+- AI-enhanced dashboards and automation systems  
+
+---
+
+## 🛠 Core Tech Stack
+
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-Advanced-black?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+
+### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs)
+![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
+![React Native](https://img.shields.io/badge/React_Native-black?style=for-the-badge&logo=react)
+
+### Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=nodedotjs)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=for-the-badge&logo=fastapi)
+![WebSockets](https://img.shields.io/badge/WebSockets-black?style=for-the-badge&logo=socketdotio)
+![Microservices](https://img.shields.io/badge/Microservices-black?style=for-the-badge)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-black?style=for-the-badge)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)
+
+### DevOps & Infra
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![CI/CD](https://img.shields.io/badge/CI/CD-black?style=for-the-badge)
+![Prometheus](https://img.shields.io/badge/Prometheus-black?style=for-the-badge&logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana)
+
+---
+
+## 🏆 Production Impact
+
+### 📊 Real-Time Trading Dashboard
+- Used daily by live traders  
+- Low-latency WebSocket-based order tracking  
+- Reduced API response time by 40%  
+- Integrated third-party exchange APIs  
+- Automated PnL & liquidation reporting  
+
+---
+
+### 🧪 Exam Portal (500+ Concurrent Users)
+- MERN stack + WebSockets  
+- Real-time exam monitoring  
+- Reduced API load by 92% using Redis caching  
+- Dockerized deployment with monitoring  
+
+---
+
+### 🤖 AI-Powered Systems
+- Integrated LLM APIs into full-stack applications  
+- Built structured AI workflows with validation & parsing  
+- Designed scalable backend pipelines for AI-driven features  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AKsHaT123456A&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AKsHaT123456A&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKsHaT123456A&theme=react-dark&area=true" />
+</p>
+
+---
+
+## 🧠 Engineering Philosophy
+
+- Performance-first architecture  
+- Clean, scalable API design  
+- Real-time reliability  
+- AI-enhanced workflows  
+- Observability & production monitoring  
+- Systems built for scale  
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshat-mishra-43930b235">
+    <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="akshat.srajan@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="mailto:akshatmishra.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/akshat-mishra-43930b235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://github.com/AKsHaT123456A">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
-</div>
+</p>
 
-###
+---
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AKsHaT123456A/count.svg?"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/AKsHaT123456A/AKsHaT123456A/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=AKsHaT123456A&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AKsHaT123456A&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AKsHaT123456A/AKsHaT123456A/output/snake.svg" alt="snake animation"/>
+</p>
